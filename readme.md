@@ -1,5 +1,7 @@
 #PHP - Les variables
 
+Preview : https://htmlpreview.github.io/?https://github.com/elixman/Exo1-php/blob/master/index.php
+
 ##Exercice 1
 Créer une variable **nom** et l'initialiser avec la valeur de votre choix.  Afficher son contenu.
 
